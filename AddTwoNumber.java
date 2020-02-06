@@ -28,3 +28,10 @@ class Solution {
         return answer.next;
     }
 }
+/*
+LinkedList와 계산기를 응용한 문제로
+
+각 계산의 1의 자리 값만을 Node에 남기고 Carry는 다음 자리 계산과 함께 계산한다.
+
+
+*/
